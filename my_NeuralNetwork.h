@@ -1,3 +1,6 @@
+// Programmer : Manish Sharma
+// Email : msinvent@gmail.com
+
 #ifndef MY_NEURALNETWORK_H
 #define MY_NEURALNETWORK_H
 

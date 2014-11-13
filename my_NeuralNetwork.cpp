@@ -1,3 +1,5 @@
+// Programmer : Manish Sharma
+// Email : msinvent@gmail.com
 
 #include <Eigen/Dense>
 #include <iostream>
