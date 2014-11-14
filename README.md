@@ -35,7 +35,7 @@ public:
 
 };
 
-The input and Outout vector matrix are to be fed column wise.
+The input and Output vector matrix are to be fed column wise.
 
 Example suppose you have to train for XOR then
 
